@@ -9,4 +9,6 @@ For Submission Belajar Pengembangan Machine Learning course in Dicoding.
 **Credits:**  
 This dataset is provided by [olafkrastovski](https://www.kaggle.com/olafkrastovski) on Kaggle. Full credit goes to the original creator.  
 
+## **Output Model**
+Link: https://drive.google.com/file/d/1daVe3qAtBiVtfZc2VE4i1DOkCX1gXSwa/view?usp=sharing
 ---
